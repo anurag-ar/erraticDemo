@@ -1,6 +1,6 @@
 public class Foo{
 	
-	public static int hw(int i){
+	public static void hw(int i){
 		if( i%2 == 0){
 			i = i*3 + 5;
 			System.out.println("asdfgfhhfh");
